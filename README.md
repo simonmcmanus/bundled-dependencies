@@ -1,5 +1,7 @@
 #BundledDependencies
 
+Auto generate your bundledDependencies
+
 ##Install
 
 ```
@@ -11,7 +13,7 @@ npm install bundled-dependencies
 Takes a package.json file, looks at the dependencies object and adds each item
  it to the bundledDependencies array.
 
-To use it I just create a file with this in:
+To use it I just create a file containing:
 
 ```js
 require('bundled-dependencies')('./package.json');
