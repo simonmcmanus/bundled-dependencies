@@ -1,0 +1,22 @@
+{
+  "name": "bundled-dependencies",
+  "version": "1.0.0",
+  "description": "Generate your bundledDependencies from the values in the dependencies field.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/simonmcmanus/bundledDependencies"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Simon McManus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonmcmanus/bundledDependencies/issues"
+  },
+  "homepage": "https://github.com/simonmcmanus/bundledDependencies"
+}
