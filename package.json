@@ -4,7 +4,7 @@
   "description": "Generate your bundledDependencies from the values in the dependencies field.",
   "main": "index.js",
   "bin": {
-    "makebd": "./bin/makebd"
+    "makebd": "./bin/makebd.js"
   },
   "repository": {
     "type": "git",
