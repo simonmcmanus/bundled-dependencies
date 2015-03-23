@@ -10,6 +10,13 @@ npm install bundled-dependencies
 
 ##Usage
 
+
+In a directory with a package.json file just type:
+
+```
+bundled-dependencies
+```
+
 Takes a package.json file, looks at the dependencies object and adds each item
  it to the bundledDependencies array.
 
