@@ -6,9 +6,6 @@
   "bin": {
     "makebd": "./bin/makebd"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "github.com/simonmcmanus/bundledDependencies"
