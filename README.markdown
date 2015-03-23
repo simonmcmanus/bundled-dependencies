@@ -1,14 +1,14 @@
-#BundledDependencies
+# BundledDependencies
 
 Auto generate your bundledDependencies
 
-##Install
+## Install
 
 ```
 npm install bundled-dependencies
 ```
 
-##Usage
+## Usage
 
 
 In a directory with a package.json file just type:
