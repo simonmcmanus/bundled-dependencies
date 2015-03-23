@@ -1,6 +1,6 @@
 {
   "name": "bundled-dependencies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate your bundledDependencies from the values in the dependencies field.",
   "main": "index.js",
   "bin": {
