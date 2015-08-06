@@ -7,7 +7,7 @@ module.exports = function(packageFile) {
   if(pkg.dependencies) {
     pkg.bundledDependencies = Object.keys(pkg.dependencies);
 
-    fs.writeFile(packageFile, JSON.stringify(pkg, null, 4), function(error) {
+    fs.writeFile(packageFile, JSON.stringify(pkg, null, 2), function(error) {
       if (error) {
         throw error;
       }
