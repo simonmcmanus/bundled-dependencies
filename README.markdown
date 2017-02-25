@@ -1,5 +1,7 @@
 # BundledDependencies
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/simonmcmanus/bundled-dependencies.svg)](https://greenkeeper.io/)
+
 Auto generate your bundledDependencies
 
 ## Install
